@@ -1,0 +1,57 @@
+[
+    {
+      "id":1,
+      "title": "Paleta Pro Carbon 1.0",
+      "description": "Paleta de pádel profesional con carbono 100%, gran control y potencia.",
+      "code": "PAL001",
+      "price": 220,
+      "status": true,
+      "stock": 15,
+      "category": "paletas",
+      "thumbnails": ["/images/paletas/pro-carbon.jpg"]
+    },
+    {
+      "id":2,
+      "title": "Paleta Control Master",
+      "description": "Ideal para jugadores defensivos que buscan precisión.",
+      "code": "PAL002",
+      "price": 180,
+      "status": true,
+      "stock": 20,
+      "category": "paletas",
+      "thumbnails": ["/images/paletas/control-master.jpg"]
+    },
+    {
+      "id":3,
+      "title": "Paleta Power Shot",
+      "description": "Diseñada para golpes potentes y juego agresivo.",
+      "code": "PAL003",
+      "price": 200,
+      "status": true,
+      "stock": 10,
+      "category": "paletas",
+      "thumbnails": ["/images/paletas/power-shot.jpg"]
+    },
+    {
+      "id":4,
+      "title": "Paleta Junior Soft",
+      "description": "Paleta liviana para jugadores principiantes o juniors.",
+      "code": "PAL004",
+      "price": 90,
+      "status": true,
+      "stock": 25,
+      "category": "paletas",
+      "thumbnails": ["/images/paletas/junior-soft.jpg"]
+    },
+    {
+      "id":5,
+      "title": "Paleta Hybrid Pro",
+      "description": "Equilibrio perfecto entre potencia y control, con goma EVA soft.",
+      "code": "PAL005",
+      "price": 195,
+      "status": true,
+      "stock": 12,
+      "category": "paletas",
+      "thumbnails": ["/images/paletas/hybrid-pro.jpg"]
+    }
+  ]
